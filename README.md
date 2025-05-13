@@ -83,3 +83,6 @@ This project is open source and available under the MIT License.
 - MediaPipe for hand landmark detection
 - scikit-learn for machine learning implementation
 - OpenCV for computer vision tasks 
+
+
+Contributor: Vishal Prajapatia
